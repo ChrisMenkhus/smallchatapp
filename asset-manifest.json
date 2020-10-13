@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/smallchatapp/static/css/main.e7583bce.chunk.css",
+    "main.js": "/smallchatapp/static/js/main.4ad0a955.chunk.js",
+    "main.js.map": "/smallchatapp/static/js/main.4ad0a955.chunk.js.map",
+    "runtime-main.js": "/smallchatapp/static/js/runtime-main.02d17ba5.js",
+    "runtime-main.js.map": "/smallchatapp/static/js/runtime-main.02d17ba5.js.map",
+    "static/js/2.6d053f0d.chunk.js": "/smallchatapp/static/js/2.6d053f0d.chunk.js",
+    "static/js/2.6d053f0d.chunk.js.map": "/smallchatapp/static/js/2.6d053f0d.chunk.js.map",
+    "index.html": "/smallchatapp/index.html",
+    "precache-manifest.9c23d3542a0fadf1985eb5b988fb0df9.js": "/smallchatapp/precache-manifest.9c23d3542a0fadf1985eb5b988fb0df9.js",
+    "service-worker.js": "/smallchatapp/service-worker.js",
+    "static/css/main.e7583bce.chunk.css.map": "/smallchatapp/static/css/main.e7583bce.chunk.css.map",
+    "static/js/2.6d053f0d.chunk.js.LICENSE.txt": "/smallchatapp/static/js/2.6d053f0d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02d17ba5.js",
+    "static/js/2.6d053f0d.chunk.js",
+    "static/css/main.e7583bce.chunk.css",
+    "static/js/main.4ad0a955.chunk.js"
+  ]
+}
